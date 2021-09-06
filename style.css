@@ -1,0 +1,45 @@
+#welcome {
+
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);}
+    
+li{
+    display: inline;
+}
+a{
+    color: aliceblue;
+    background-color: black;
+    font-family: 'Indie Flower', cursive;
+}
+head {
+    font-family: 'Indie Flower', cursive;
+
+}
+img{
+    border-radius: 50%;
+}
+section{
+    text-align: center;
+}
+nav{
+    font-size: 15pt;
+    position: fixed;
+    background-color: black;
+}
+header{
+    font-size: 30pt;
+}
+hr{
+font-weight: 900;
+}
+#contact{
+    background-color: black;
+}
+h6{
+    font-size: 50pt;
+    color: cornsilk;
+}
+header{
+    font-family: 'Reenie Beanie', cursive;
+}
